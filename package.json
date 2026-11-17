@@ -1,0 +1,28 @@
+{
+  "name": "festiva-react",
+  "version": "1.0.0",
+  "description": "Mi repositorio para el festival de React",
+  "keywords": [
+    "dweb",
+    "dam",
+    "2b",
+    "festival",
+    "react",
+    "msanz"
+  ],
+  "homepage": "https://github.com/flecumbmor1/festiva-react#readme",
+  "bugs": {
+    "url": "https://github.com/flecumbmor1/festiva-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flecumbmor1/festiva-react.git"
+  },
+  "license": "ISC",
+  "author": "flecumbmor1@educacion.navarra.es",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
